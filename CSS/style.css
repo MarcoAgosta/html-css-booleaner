@@ -38,3 +38,19 @@ c{
     background-color: yellow;
 }
 
+thead{
+    background-color: #03a9f4;
+    color: white;
+}
+
+.Tipo_1{
+    width: 20%;
+}
+
+.Tipo_2{
+    width: 59%;
+}
+
+.Linea_azzurra{
+    background-color: #00bcd45c;
+}
